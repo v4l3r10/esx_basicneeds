@@ -5,12 +5,12 @@ Config.Items = {
 	{
 		name = 'bread',
 		pType = 'hunger',
-		value = '200000'
+		value = 200000
 	},
 	{
 		name = 'water',
 		pType = 'thirst',
-		value = '200000'
+		value = 200000
 	},
 	-- Example --
 	--[[ 
